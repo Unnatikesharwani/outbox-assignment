@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Outbox – email scheduler (BullMQ + Redis + Postgres + Elasticsearch)
 
 Express/TypeScript API, BullMQ worker, Ethereal SMTP, React + Tailwind dashboard.
@@ -78,3 +79,6 @@ Disconnect deletes the row.
 backend/src  config · lib (db, redis, rateLimiter, search, senders, slack) · queue (emailQueue, worker) · routes (auth, api)
 frontend/src components/ui (Button, Input, Modal, Badge, Toast, Spinner, EmptyState) · components · hooks · pages · lib
 ```
+=======
+# outbox-assignment
+>>>>>>> f671fcd2c1578dc9797671f10db2e637ae0763b8
